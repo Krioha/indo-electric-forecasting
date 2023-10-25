@@ -42,6 +42,12 @@ Anda dapat berkontribusi pada proyek ini dengan cara berikut:
 5. Push ke cabang fitur Anda (`git push origin fitur-anda`).
 6. Buat permintaan tarik (Pull Request) ke repositori ini.
 
+# Tangkapan Web Prototype
+
+![Screenshot 2023-10-25 133501](https://github.com/Krioha/indo-electric-forecasting/assets/93811161/48b15a96-002b-45b3-aa0f-4d789b9c88ff)
+![image](https://github.com/Krioha/indo-electric-forecasting/assets/93811161/4c10c904-b405-433d-ac5b-75a448aed714)
+
+
 ## Pengembang
 Pengembang proyek ini adalah Michael Fernandito Sanfia. Anda dapat menghubungi saya di sanviakrioha123@gmai.com 
 
